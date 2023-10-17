@@ -1,7 +1,9 @@
 # telegramyoutubebot
 telegram bot для загрузки видео с ютуба
 
-[https://www.youtube.com/watch?v=6N1AW9fDQZc](https://www.youtube.com/watch?v=6N1AW9fDQZc) - вижео урок по созданию бота и хостнгу
+[https://www.youtube.com/watch?v=6N1AW9fDQZc](https://www.youtube.com/watch?v=6N1AW9fDQZc) - видео урок по созданию бота и хостнгу
+
+[https://t.me/data_analysis_ml](https://t.me/data_analysis_ml) - наше телеграм канал для Python разработчиков
 
 туториал от получения токена до размещения бота на хостинге. 
 Для бота используется самая продвинутая библиотеку aiogram3, бот хостится абсолютно бесплатно при помощи Replit. 
@@ -16,3 +18,4 @@ telegram bot для загрузки видео с ютуба
 
 Это не просто видео, в процессе создаётся полноценный продукт (бот), который можно использовать 24/7 абсолютно бесплатно.
 
+![Uploading IMAGE 2023-10-17 19:37:30.jpg…]()
